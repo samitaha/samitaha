@@ -7,5 +7,11 @@ h6 {
   color: #A4A400;
   background-color: #F0F0F0;
   font-family: "Lucida Sans Unicode", Helvetica, Arial, or any sans-serif;
+  align-content: left;
+}
+
+h1{
   align-content: center;
+  font-size: 22pt;
+  font-weight: bold;
 }
